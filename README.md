@@ -1,18 +1,29 @@
-# Welcome to my Profile!
+### Hi there, I'm Lucas
 
-Hi, my name is Lucas, I'm a full-stack junior dev.
-I am a student of computer science, currently in my first semester and I am passionate about technologies.
+## I'm Student && Developer
 
-I have training in computer technician, training which made me choose that the area of ​​technology and programming would be my destiny and my way of life.
-
-#### 😀"  Every professional was an amateur. Every expert was once a beginner. Value the small start"
-
-- 📕Computer science student
+- 📕 Computer science student - IFSP
 - 💼 College Scholar - Monitoring and training teacher for programming competitions
-- 💻  Junior Full-Stack Developer
-- 📍From SP living in Salto
+- 💻 Junior Full-Stack Developer
+- 📍 From SP living in Salto - Brazil
 
-Reach me out
+### Connect with me:
 
-[![Linkedin Badge](https://img.shields.io/badge/-Lucas%20Anselmo-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=)](https://www.linkedin.com/in/lucas-anselmo-moraes-da-silva-543636161/)
-![Gmail Badge](https://img.shields.io/badge/-lucasanselmodasilva02@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucasanselmodasilva02@gmail.com)
+[<img align="left" alt="img" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/>][lucasanselmodasilva02@gmail.com]
+[<img align="left" alt="img" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkdin.svg"/>][https://www.linkedin.com/in/lucas-anselmo-moraes-da-silva-543636161/]
+[<img align="left" alt="img" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>][https://www.instagram.com/lucas_anselmo2025/]
+
+<br />
+
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
+[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
+[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]
+[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]
+[<img align="left" alt="TypeScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />]
+[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />]
+[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />]
+[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />]
+[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />]
+
+<br/>
+<br/>
