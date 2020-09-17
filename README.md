@@ -21,3 +21,8 @@
 
 <br/>
 <br/>
+
+### Connect with me:
+
+[<img align="left" alt="img" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkdin.svg"/>][https://www.linkedin.com/in/lucas-anselmo-moraes-da-silva-543636161/]
+[<img align="left" alt="img" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>][https://www.instagram.com/lucas_anselmo2025/]
