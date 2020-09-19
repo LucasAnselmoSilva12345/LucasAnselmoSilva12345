@@ -3,7 +3,7 @@
 # Hi there, I'm Lucas Anselmo
 
 <p align="left" font-size="16px">
-I'm a computer science student, currently in my first semester, I am loving my course, and on the outside I am studying web development a lot
+#### I'm a computer science student, currently in my first semester, I am loving my course, and on the outside I am studying web development a lot
 </p>
 
 ## My skills as a developer
