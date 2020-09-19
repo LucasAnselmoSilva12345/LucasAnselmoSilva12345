@@ -19,8 +19,23 @@ I'm a computer science student, currently in my first semester, I am loving my c
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 
+<br />
+
 ### Back-end
 
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 
+<br />
+
 ### Connect with me:
+
+<p align="left">
+📫  Want to talk to me? Send me a message on one of these social networks below !
+</p>
+
+<p align="left">
+<a href="mailto:lucasanselmodasilva02@gmail.com" alt="Gmail">
+<img src="https://img.shields.io/badge/-lucasanselmodasilva02@gmail.com-e34c41?style=flat-square&labelColor=e34c41&logo=gmail&logoColor=white&link=lucasanselmodasilva02@gmail.com" /></a>
+  
+<a href="https://www.linkedin.com/in/lucas-anselmo-moraes-da-silva-543636161/" alt="Linkedin">
+<img src="https://img.shields.io/badge/-https://www.linkedin.com/in/lucas-anselmo-moraes-da-silva-543636161/-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-anselmo-moraes-da-silva-543636161/" /></a>
