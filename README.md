@@ -25,7 +25,7 @@ I'm a computer science student, currently in my first semester, I am loving my c
 
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 
-<br />
+<br/>
 
 ### Connect with me:
 
@@ -38,4 +38,4 @@ I'm a computer science student, currently in my first semester, I am loving my c
 <img src="https://img.shields.io/badge/-lucasanselmodasilva02@gmail.com-e34c41?style=flat-square&labelColor=e34c41&logo=gmail&logoColor=white&link=lucasanselmodasilva02@gmail.com" /></a>
   
 <a href="https://www.linkedin.com/in/lucas-anselmo-moraes-da-silva-543636161/" alt="Linkedin">
-<img src="https://img.shields.io/badge/-https://www.linkedin.com/in/lucas-anselmo-moraes-da-silva-543636161/-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-anselmo-moraes-da-silva-543636161/" /></a>
+<img src="https://img.shields.io/badge/-Iuri%20Silva-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-anselmo-moraes-da-silva-543636161/" /></a>
