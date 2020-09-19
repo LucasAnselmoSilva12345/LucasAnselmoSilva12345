@@ -8,6 +8,6 @@ I am a computer science student, currently in my first semester, I am loving my 
 
 ## My job as a web developer is both the Front-end and the Back-end part
 
-[<img alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
+<img alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 
 ### Connect with me:
