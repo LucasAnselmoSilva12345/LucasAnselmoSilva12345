@@ -32,6 +32,21 @@
 
 <br/>
 
+
+### Connect with me:
+
+<p align="left">
+📫  Want to talk to me? Send me a message on one of these social networks below !
+</p>
+
+<p align="left">
+<a href="mailto:lucasanselmodasilva02@gmail.com" alt="Gmail">
+<img src="https://img.shields.io/badge/-lucasanselmodasilva02@gmail.com-e34c41?style=flat-square&labelColor=e34c41&logo=gmail&logoColor=white&link=lucasanselmodasilva02@gmail.com" /></a>
+  
+<a href="https://www.linkedin.com/in/lucas-anselmo-moraes-da-silva-543636161/" alt="Linkedin">
+<img src="https://img.shields.io/badge/-Lucas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-anselmo-moraes-da-silva-543636161/" /></a>
+
+<br/>
 <p align="center">
 
   <a href="https://github.com/LucasAnselmoSilva12345">
@@ -49,16 +64,3 @@
   </a>
 
 </p>
-
-### Connect with me:
-
-<p align="left">
-📫  Want to talk to me? Send me a message on one of these social networks below !
-</p>
-
-<p align="left">
-<a href="mailto:lucasanselmodasilva02@gmail.com" alt="Gmail">
-<img src="https://img.shields.io/badge/-lucasanselmodasilva02@gmail.com-e34c41?style=flat-square&labelColor=e34c41&logo=gmail&logoColor=white&link=lucasanselmodasilva02@gmail.com" /></a>
-  
-<a href="https://www.linkedin.com/in/lucas-anselmo-moraes-da-silva-543636161/" alt="Linkedin">
-<img src="https://img.shields.io/badge/-Lucas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-anselmo-moraes-da-silva-543636161/" /></a>
