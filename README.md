@@ -32,6 +32,24 @@
 
 <br/>
 
+<p align="center">
+
+  <a href="https://github.com/LucasAnselmoSilva12345">
+    <img 
+         align="center" 
+         height="180"
+         src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasAnselmoSilva12345&layout=compact" 
+     />
+  </a>
+  <a href="https://github.com/LucasAnselmoSilva12345">
+    <img 
+         align="center" 
+         height="180"
+         src="https://github-readme-stats.vercel.app/api?username=LucasAnselmoSilva12345&show_icons=true&include_all_commits=true" />
+  </a>
+
+</p>
+
 ### Connect with me:
 
 <p align="left">
