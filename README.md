@@ -45,22 +45,3 @@
   
 <a href="https://www.linkedin.com/in/lucas-anselmo-moraes-da-silva-543636161/" alt="Linkedin">
 <img src="https://img.shields.io/badge/-Lucas-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-anselmo-moraes-da-silva-543636161/" /></a>
-
-<br/>
-<p align="center">
-
-  <a href="https://github.com/LucasAnselmoSilva12345">
-    <img 
-         align="center" 
-         height="180"
-         src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasAnselmoSilva12345&layout=compact" 
-     />
-  </a>
-  <a href="https://github.com/LucasAnselmoSilva12345">
-    <img 
-         align="center" 
-         height="180"
-         src="https://github-readme-stats.vercel.app/api?username=LucasAnselmoSilva12345&show_icons=true&include_all_commits=true" />
-  </a>
-
-</p>
