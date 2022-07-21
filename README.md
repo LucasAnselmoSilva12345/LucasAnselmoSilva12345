@@ -22,8 +22,6 @@ My focus as a developer is in the Frontend area, studying and learning about the
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" width="52" alt="go logo"  />
 </div>
 
-<br>
-
 ###
 
 <h2 align="left">My social networks</h2>
@@ -53,8 +51,6 @@ My focus as a developer is in the Frontend area, studying and learning about the
 </div>
 
 ###
-
-<br>
 
 ###
 
