@@ -1,53 +1,22 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+# Hi, welcome to my GitHub Profile! 👋
 
-###
+## Resume about me 👦
 
-<p align="left">My name is Lucas, welcome to my profile.
-I'm a Computer Science student at IFSP Salto, currently in the 7th semester of the course, and I'm also a web software development intern.
-My focus as a developer is in the Frontend area, studying and learning about the JavaScript "stack", from its simple use, to more robust applications, using frameworks and libraries.</p>
+My name is Lucas Anselmo, I've 21 age, and in addition to being a computer science student (currently in the 8th period of the course), I work with application and software development, with an emphasis on the visual development of products, that is, I am a Front-end developer.
 
-###
+As a front-end developer, I created several personal projects, created and developed based on my studies on web development and all its present technologies. As a developer, I use the JavaScript “family” as my helper to study and develop with it, so I use **JavaScript, React, TypeScript and NextJS** to create a web application and increase my portfolio. In addition to developing personal projects, I also contributed to “free software” projects, also known as “open-source”. The software in question was the Open Journal System, in its version 3.3.
 
-<h2 align="left">I code with</h2>
+I leave as a reference here, my profile on GitHub, where my personal projects are hosted, and, as a highlight, I leave the suggestion for viewing the projects:
 
-###
+- [Projeto Site TI](https://github.com/LucasAnselmoSilva12345/Projeto-Site-TI) 
+- [Educa Vida](https://github.com/LucasAnselmoSilva12345/educa_vida)
+- [Apreenda JavaScript](https://github.com/LucasAnselmoSilva12345/aprenda_JavaScript)
+- [Blood Donation](https://github.com/LucasAnselmoSilva12345/blood-donation), 
+- [Social Pets](https://github.com/LucasAnselmoSilva12345/Social-Pets)
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" width="52" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" width="52" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" width="52" alt="react logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" width="52" alt="sass logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" width="52" alt="go logo"  />
-</div>
+## Contact me ☎️
 
-###
+Send me a message, across the networks:
 
-<h2 align="left">My social networks</h2>
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/lucas-anselmo-moraes-da-silva-543636161/">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://dev.to/lucas_anselmo">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/devto/default.svg" width="52" height="40" alt="devto logo"  />
-  </a>
-  <a href="mailto:lucasanselmodasilva02@gmail.com">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-  <a href="https://twitter.com/LucasAnselmo202">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
-  <a href="Lucas_Anselmo#8661">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-  <a href="https://www.instagram.com/lucas_anselmo2025/">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="https://www.facebook.com/lucas.anselmomoraesdasilva">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
-  </a>
-</div>
-
-###
+- [E-mail - lucasanselmodasilva02@gmail.com](mailto:lucasanselmodasilva02@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/lucas-anselmo-moraes-da-silva-543636161/)
