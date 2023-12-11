@@ -1,6 +1,6 @@
 # Hi, welcome to my GitHub Profile! 👋
 
-Hello, I'm Lucas Anselmo, a Computer Science student in the 8° period. My passion for application and software development, with a focus on the visual aspect, defines me as a Front-end Developer. I'm 21 years old, and I've already created several personal projects that reflect my studies in web development, and its technologies. I liked to use a “Script Family”, so I choose JavaScript, React, TypeScript and NextJs for developing a project for my portfolio and increase my knowledge.
+
 
 ## Contact me ☎️
 
