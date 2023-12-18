@@ -1,6 +1,6 @@
 # Hi, my name is Lucas Anselmo 👋
 
-I'm a software developer with experience in creating custom portals and periodicals for educational institutions in Brazil and Angola. I worked at Lepidus Tecnologia, where I developed visual identities, unique themes, and new functionalities using technologies like React, TypeScript, and TailwindCss. Specializing in test-driven projects, I ensure high-quality code and accessibility. Additionally, I have experience in solving critical issues and leading corporate website creation projects. Check out some of my projects: ["John Text List"](https://github.com/LucasAnselmoSilva12345/John-Task-List), ["HeroHub"](https://github.com/LucasAnselmoSilva12345/hero-hub), ["Food-Recipe"](https://github.com/LucasAnselmoSilva12345/food-recipe) and ["Social Pets"](https://github.com/LucasAnselmoSilva12345/Social-Pets/). 🚀
+I am a Junior Front-end software development enthusiast passionate about creating innovative digital experiences. With a degree in Computer Science from IFSP — Campus Salto, I immersed myself in the world of programming with a clear purpose: shaping the intersection between design and functionality. 🚀
 
 ## Languagens and Tools 🛠️
 
