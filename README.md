@@ -1,5 +1,5 @@
 # Who am I? 👨🏻
-Hello, I'm Lucas Anselmo Moraes Da Silva, a junior enthusiast in Front-end software development, passionate about creating innovative digital experiences. I graduated in Computer Science from IFSP — Campus Salto, and my professional journey began in the project of "Training and Production of Didactic Material for Programming Competition Marathons". My professional path has shaped my commitment to quality and education in this field.
+Hello, I'm Lucas Anselmo Moraes Da Silva, a junior enthusiast in Front-end software development, passionate about creating innovative digital experiences. I graduated in Computer Science from IFSP — Campus Salto.
 
 ## My professional experiences 💻
 I started my career as a web software development intern, working with software such as Open Journal System, Open Preprint System, and Open Monograph Press. My main focus was creating visual identities and themes for academic portals, as well as developing customized functionalities. My experience includes global projects, providing a broad understanding of international demands and expertise in digital accessibility.
