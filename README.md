@@ -10,14 +10,10 @@ I began my professional career in August 2021 as a web software development inte
 ## My technical expertise ⭐
 I have a strong background in languages like JavaScript and TypeScript, along with frameworks such as React and Next.js. I have developed and implemented projects widely used globally. I prioritize XP and TDD methodologies throughout the development lifecycle, emphasizing extensive implementation of unit and integration tests. Furthermore, I adhere to accessibility guidelines from W3C, WCAG, and eMAG to ensure inclusive experiences.
 
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![TypeScript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript)
 ![TailwindCSS](https://img.shields.io/badge/-Tailwind-333333?style=flat&logo=tailwindcss)
-![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 
 ## What makes me special 💡
 I seek a stimulating environment that fosters continuous learning. I have a firm commitment to quality, problem-solving, and the continuous pursuit of technical improvement. My enthusiasm, passion for innovation, and diverse experience enable me to actively contribute to challenging projects in web development.
