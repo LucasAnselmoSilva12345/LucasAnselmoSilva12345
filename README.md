@@ -1,10 +1,13 @@
-# Who am I? 👨🏻
-Hello, I'm Lucas Anselmo Moraes Da Silva, a junior enthusiast in Front-end software development, passionate about creating innovative digital experiences. I graduated in Computer Science from IFSP — Campus Salto.
+# Hi People 👋
+Hello, I'm Lucas Anselmo, 22 years old. I am a computer technician and hold a Bachelor's degree in Computer Science. I graduated as a technician from ETEC Martinho Di Ciero and as a bachelor from the Federal Institute of São Paulo, Salto Campus.
 
-## My professional experiences 💻
-I started my career as a web software development intern, working with software such as Open Journal System, Open Preprint System, and Open Monograph Press. My main focus was creating visual identities and themes for academic portals, as well as developing customized functionalities. My experience includes global projects, providing a broad understanding of international demands and expertise in digital accessibility.
+I am a Front-end Software Developer, specializing in JavaScript and TypeScript, with solid experience in leading market frameworks such as React and Next.js. I am constantly seeking new opportunities to enhance my skills and contribute to innovative projects. My focus is on developing responsive, accessible applications with excellent usability, meeting the needs of all users.
 
-## My technical expertise 📁
+## Professional experiences 🗂️
+
+I began my professional career in August 2021 as a web software development intern, working on the visual and structural creation of academic journals for universities and institutions in the fields of social and cultural sciences, as well as open access projects. In January 2024, I took on the role of Junior Programmer Analyst at the commercial website "Sofá Na Caixa." In this role, in addition to analytical responsibilities, I lead the site's development team, coordinating all related projects and initiatives.
+
+## My technical expertise ⭐
 I have a strong background in languages like JavaScript and TypeScript, along with frameworks such as React and Next.js. I have developed and implemented projects widely used globally. I prioritize XP and TDD methodologies throughout the development lifecycle, emphasizing extensive implementation of unit and integration tests. Furthermore, I adhere to accessibility guidelines from W3C, WCAG, and eMAG to ensure inclusive experiences.
 
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
@@ -15,20 +18,15 @@ I have a strong background in languages like JavaScript and TypeScript, along wi
 ![TailwindCSS](https://img.shields.io/badge/-Tailwind-333333?style=flat&logo=tailwindcss)
 ![Jest](https://img.shields.io/badge/-Jest-333333?style=flat&logo=jest)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 ## What makes me special 💡
 I seek a stimulating environment that fosters continuous learning. I have a firm commitment to quality, problem-solving, and the continuous pursuit of technical improvement. My enthusiasm, passion for innovation, and diverse experience enable me to actively contribute to challenging projects in web development.
-
-### GitHub's data accounts ⭐
 
 <a href="https://github.com/LucasAnselmoSilva12345" title="Perfil de Lucas Anselmo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasAnselmoSilva12345&theme=dracula&show_icons=true" />
 </a>
 
 ### Contact me ☎️
-
 <p align="left">
   <a href="mailto:lucasanselmodasilva02@gmail.com" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=lucasanselmodasilva02@gmail.com" alt="Gmail" /></a>
